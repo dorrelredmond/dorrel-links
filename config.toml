@@ -1,0 +1,14 @@
+baseURL = 'http://links.dorrelredmond.com'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'lynx'
+
+enableEmoji = true
+disableKinds = ["taxonomy", "term"]
+
+[author]
+ name = 'Dorrel Redmond'
+
+ links = [
+   { github = "https://github.com/dorrelredmond" },
+ ]
