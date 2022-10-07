@@ -1,4 +1,4 @@
-baseURL = 'http://links.dorrelredmond.com'
+baseURL = 'https://links.dorrelredmond.com'
 languageCode = 'en-us'
 title = 'Dorrel Redmond Links'
 theme = 'lynx'
