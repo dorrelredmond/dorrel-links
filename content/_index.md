@@ -1,1 +1,1 @@
-All the links for Dorrel Redmond
+All the places you can find Dorrel and his content
