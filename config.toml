@@ -11,18 +11,24 @@ disableKinds = ["taxonomy", "term"]
  # headline = "An awesome person"
  image = "img/author.png"  # path relative to static directory
 
+# the commented links are going to be custom ones 
+# will also need to redo throne as a custom, but leaving as normal link for now
  links = [
-    { email = "mailto:dorrelredmond@gmail.com" },
-    { apple = { href = "https://apple.co/3c0Gfao", text = "Apple Music" }},
-    { link = "https://dorrelredmond.com/" },
-    { discord = "https://discord.gg/UaY44UAERY" },
-    { github = "https://github.com/dorrelredmond" },
-    { instagram = "https://instagram.com/dorrelredmond" },
-    { soundcloud = "https://soundcloud.com/dorrelredmond" },
-    { steam = "https://steamcommunity.com/id/dorrelredmond" },
-    { tiktok = "https://tiktok.com/@dorrelredmond" },
-    { twitch = "https://twitch.tv/dorrelredmond" },
+	{ link = "https://dorrelredmond.com/" },
+	{ twitch = "https://twitch.tv/dorrelredmond" },
     { twitter = "https://twitter.com/dorrelredmond" },
+    { instagram = "https://instagram.com/dorrelredmond" },
+    { discord = "https://discord.gg/UaY44UAERY" },
+    { tiktok = "https://tiktok.com/@dorrelredmond" },
+    { link = "https://throne.me/u/dorrelredmond"}
+    #{ ko-fi = }
     { youtube = "https://www.youtube.com/channel/UCBMt4IJpIJ2rq3tMTMRnfOw" },
+	{ apple = { href = "https://apple.co/3c0Gfao", text = "Apple Music" }},
+	#{ spotify = }
+	#{ amazon-music = }
+	{ soundcloud = "https://soundcloud.com/dorrelredmond" },
+	#{ bandcamp = }
+	{ github = "https://github.com/dorrelredmond" },
+    { email = "mailto:dorrelredmond@gmail.com" },
  ]
  
