@@ -14,21 +14,21 @@ disableKinds = ["taxonomy", "term"]
 # the commented links are going to be custom ones 
 # will also need to redo throne as a custom, but leaving as normal link for now
  links = [
-	{ link = "https://dorrelredmond.com/" },
+	{ link = { href = "https://dorrelredmond.com/", text = "Main Website" }},
 	{ twitch = "https://twitch.tv/dorrelredmond" },
-    { twitter = "https://twitter.com/dorrelredmond" },
-    { instagram = "https://instagram.com/dorrelredmond" },
-    { discord = "https://discord.gg/UaY44UAERY" },
-    { tiktok = "https://tiktok.com/@dorrelredmond" },
-    { link = "https://throne.me/u/dorrelredmond"}
-    #{ ko-fi = }
-    { youtube = "https://www.youtube.com/channel/UCBMt4IJpIJ2rq3tMTMRnfOw" },
+	{ twitter = "https://twitter.com/dorrelredmond" },
+	{ instagram = "https://instagram.com/dorrelredmond" },
+	{ discord = "https://discord.gg/UaY44UAERY" },
+	{ tiktok = "https://tiktok.com/@dorrelredmond" },
+	{ link = { href = "https://throne.me/u/dorrelredmond", text = "Throne" }},
+	#{ ko-fi = },
+	{ youtube = "https://www.youtube.com/channel/UCBMt4IJpIJ2rq3tMTMRnfOw" },
 	{ apple = { href = "https://apple.co/3c0Gfao", text = "Apple Music" }},
-	#{ spotify = }
-	#{ amazon-music = }
+	#{ spotify = },
+	#{ amazon-music = },
 	{ soundcloud = "https://soundcloud.com/dorrelredmond" },
-	#{ bandcamp = }
+	#{ bandcamp = },
 	{ github = "https://github.com/dorrelredmond" },
-    { email = "mailto:dorrelredmond@gmail.com" },
+	{ email = "mailto:dorrelredmond@gmail.com" },
  ]
  
