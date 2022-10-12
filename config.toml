@@ -11,8 +11,6 @@ disableKinds = ["taxonomy", "term"]
  # headline = "An awesome person"
  image = "author.png"  # path relative to static directory
 
-# the commented links are going to be custom ones 
-# will also need to redo throne as a custom, but leaving as normal link for now
  links = [
 	{ link = { href = "https://dorrelredmond.com/", text = "Main Website" }},
 	{ twitch = "https://twitch.tv/dorrelredmond" },
