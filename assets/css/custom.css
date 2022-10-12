@@ -1,4 +1,5 @@
 .link-throne {
+  color: white;
   background: rgb(131, 58, 180);
   background: linear-gradient(
     90deg,
@@ -9,21 +10,25 @@
 }
 
 .link-ko-fi {
+  color: white;
   background-color: #FF5E5B;
   );
 }
 
 .link-spotify {
+  color: white;
   background: rgb(30, 215, 96);
   );
 }
 
 .link-amazon-music {
+  color: white;
   background-color: #146eb4;
   );
 }
 
 .link-bandcamp {
+  color: white;	
   background-color: #629aa9;
   );
 }
