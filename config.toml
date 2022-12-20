@@ -14,6 +14,7 @@ disableKinds = ["taxonomy", "term"]
  links = [
 	{ link = { href = "https://dorrelredmond.com/", text = "Main Website" }},
 	{ twitch = "https://twitch.tv/dorrelredmond" },
+	{ link = {href = "https://vt.social/@dorrelredmond", text = "Mastodon"}},
 	{ twitter = "https://twitter.com/dorrelredmond" },
 	{ instagram = "https://instagram.com/dorrelredmond" },
 	{ discord = "https://discord.gg/UaY44UAERY" },
