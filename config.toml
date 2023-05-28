@@ -21,6 +21,7 @@ disableKinds = ["taxonomy", "term"]
 	{ tiktok = "https://tiktok.com/@dorrelredmond" },
 	{ throne = { href = "https://throne.me/u/dorrelredmond", text = "Throne" }},
 	{ ko-fi = { href = "https://ko-fi.com/dorrelredmond", text = "Ko-Fi" }},
+	{ link = { href = "https://www.backloggd.com/u/dorrelredmond/", text = "Game Backlog and Wishlist" }},
 	{ youtube = "https://www.youtube.com/channel/UCBMt4IJpIJ2rq3tMTMRnfOw" },
 	{ apple = { href = "https://apple.co/3c0Gfao", text = "Apple Music" }},
 	{ spotify = { href = "https://open.spotify.com/artist/3CRJJnYhQXumwKvbQLl215", text = "Spotify" }},
