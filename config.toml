@@ -16,6 +16,7 @@ disableKinds = ["taxonomy", "term"]
 	{ twitch = "https://twitch.tv/dorrelredmond" },
 	{ twitter = "https://twitter.com/dorrelredmond" },
  	{ youtube = "https://www.youtube.com/channel/UCBMt4IJpIJ2rq3tMTMRnfOw" },
+  	{ link = { href = "https://vstream.com/c/@dorrelredmond", text = "VStream" }},
   	{ tiktok = "https://tiktok.com/@dorrelredmond" },
 	{ discord = "https://discord.gg/UaY44UAERY" },
 	{ throne = { href = "https://throne.me/u/dorrelredmond", text = "Throne" }},
