@@ -1,1 +1,1 @@
-All the places you can find Dorrel and his content
+All the places you can find Dorrel and their content
